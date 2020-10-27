@@ -11,6 +11,7 @@ ENV PWD_APP='/gobierto' \
     ENV='development' \
     HOST='gobierto.test' \
     BASE_HOST='gobierto.test' \
+    GOBIERTO_NODE_API='localhost:5050' \
     BINDING='0.0.0.0' \
     ASSETS_COMPILE='true' \
     RAILS_MAX_THREADS='5'
